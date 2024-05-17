@@ -1,0 +1,8 @@
+rok=['1','9','8','8']
+
+s=[str(i) for i in rok]    
+rok=int(("".join(s)))
+print(rok)
+-->1988  
+
+#Szybka zamiana listy na int-a

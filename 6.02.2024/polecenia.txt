@@ -1,0 +1,2 @@
+1-Wczytaj dane z pliku dane.txt i liczby pierwsze wpisz do pliku prime.txt a liczby nieparzyste do pliku odd.txt
+2-Dla każdej  liczby do pliku w2.txt wpisz liczbę oraz jej rozkład na czynniki pierwsze

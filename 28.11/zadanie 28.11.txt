@@ -1,0 +1,18 @@
+Cechy list i stringów
+
+1. Sprawdź czy ciąg znaków ma pierszy i ostatni znak taki sam.
+aneksja -> tak mama ->nie
+2. Sprawdź czy ciąg znaków składa się takich samych par
+mama -> tak traktor -> nie
+3. Sprawdź czy liczba składa się z tych samych cyfr
+3333 ->TAK 123 ->NIE
+4. Sprawdź czy string składa się z tych samych znaków
+aaaa ->TAK abc ->NIE
+
+W pliku dane.txt:
+5. Ile liczb składa się z tych samych cyfr
+6. Ile liczb tworzy ze swoich cyfr ciąg rosnący 
+123678 -> tak
+7. Ile liczb ma dwie początkowe cyfry równe dwóm ostanim cyfrom?
+169816 -> tak
+8. Ile liczb ma sumę cyfr > 30

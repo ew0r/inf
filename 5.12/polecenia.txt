@@ -1,0 +1,15 @@
+1. Policz liczby nieparzyste w pliku dane3.txt
+
+2. Policz liczby parzyste w pliku dane28.txt
+
+3. Wyznacz całkowitą sumę liczb dla obydwu plików.
+
+4. Do pliku wyniki.txt wpisz liczby podzielne przez 3 z dane3.txt i liczby podzielne przez 2 z pliku dane28.txt
+
+
+--zapis do pliku:
+plik_wy = open('wyniki.txt, 'w')
+print(12, file=plik_wy)
+plik_wy.close()
+
+

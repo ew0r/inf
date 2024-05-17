@@ -1,0 +1,7 @@
+Dla danych z pliku dane2109.txt:
+
+0. Policz ile jest liczb parzystych a ile nieparzystych
+1. Wypisz liczby gdzie cyfra jedności jest < 3
+2. Wypisz liczby gdzie suma cyf.dziesiątek i cyf. jedności < 10
+3. Wypisz liczby, gdzie cyfra tysięcy jest > cyf. jedności
+4. Wypisz liczby,  gdzie pierwsza połówka jest > drugiej połówki

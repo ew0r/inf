@@ -1,0 +1,26 @@
+
+1. Utwórz listę zawierającą liczby z przedziału A, B,
+podzielne przez X
+
+2. Utwórz funkcję pisz_duże(lili, X) pobierającą listę liczb
+oraz liczbę X. Funkcja wypisuje wartości elementów > X.
+
+3. Utwórz funkcję pisz_duże2(lili, X) pobierającą listę liczb
+oraz liczbę X. Funkcja wypisuje indeksy elementów > X.
+
+4. Utwórz funkcję wielokrotnie(lili). Każdy element z listy
+wypisz tyle razy ile wynosi jego wartość.
+
+5. Utwórz funkcję przemnóż(lili, X). Funkcja zwraca listę z
+elementami z listy lili przemnożonymi przez X.
+#################################################################
+6. Utwórz funkcję stop(lili, X). Funkcja wypisuje elementy
+dopóki ich indeks jest < X.
+
+7. Utwórz funkcję pomiń(lili, X). Funkcja zwraca listę zawierającą
+liczby z lili, ale pomija liczby podzielne przez X.
+
+8. Utwórz funkcję scal_x(lili1, lili2, x). Funkcja zwraca listę
+zawierającą liczby z lili1 oraz lili2, ale pomija
+liczby podzielne przez X.
+

@@ -1,0 +1,6 @@
+Dla danych z pliku dane_b.txt:
+
+1. Policz ile linii zawiera / składa się z tej samej wartości
+2. Policz ile linii zawiera niepowtarzalne dane
+3. Policz ile linii to liczby wyłącznie parzyste lub wyłączenie nieparzyste
+4. Wykonaj zestawienie ile razy były linie jedno-, dwu-, trzy-, ..., dziewięcioelementowe

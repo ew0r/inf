@@ -1,0 +1,10 @@
+1	Andrzej	Dobrzynowski	15.09.1953	M	70
+2	Zofia	Borkowska	25.12.1964	K	65
+3	Aleksander	Zdun	12.08.1955	M	73
+4	Jan	Kowalski	23.01.1956	M	77
+5	StanisÅ‚aw	Gogolewski	23.09.1979	M	99
+6	ElÅ¼bieta	DziÄ™dziel	22.02.1963	K	67
+7	Marianna	Nowakowska	01.06.1997	K	55
+8	Maria	Borkowska	16.02.1997	K	54
+9	Anna	Zdun	13.09.1988	K	65
+10	Tomasz	Macherczak	19.11.1995	M	84
