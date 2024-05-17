@@ -1,0 +1,13 @@
+1. UŻ podaje długą liczbę. Podziel ją na 3-cyfrowe liczby i wyznacz ich sumę
+Np. 123999661 -> 123,  999,  661
+=============================================================================
+s = '12 34 45'
+dd = s.split()
+print(dd)  ==> ['12', '34', '45']
+2. Uż podaje kilka liczb po spacji. Policz liczby > 100.
+3. Uż podaje kilka liczb po spacji. Wyznacz sumę liczb parzystych i sumę
+liczb nieparzystych.
+4. UŻ podaje po spacji kilka liczb 3-cyfrowych. Wypisz liczby, których suma cyfr
+jest parzysta.
+5. UŻ podaje po spacji kilka liczb (max. 4-cyfrowych). 
+Policz ile liczb jest 1-, 2-, 3-, 4-cyfrowych.s

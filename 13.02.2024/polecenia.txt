@@ -1,0 +1,6 @@
+UŻ podaje liczbę N.
+1. Policz ile razy występuje cyfra 5.
+2. Wypisz cyfry,  które występują więcej niż 2 razy.
+3. Utwórz maksymalnie możliwą wartość z cyfr parzystych
+i odpowiednio z cyfr nieparzystych.
+4. Utwórz liczbę N2 zawierającą cyfry '1' wstawione pomiędzy cyframi N. Np. 2024 -> 2101214

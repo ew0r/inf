@@ -1,0 +1,13 @@
+mcount2=mcount.copy()
+Kopiuje zawartośc listy mcount do listy mcount2
+
+
+
+linia='543 564'
+lista = linia.split()
+print(lista)
+
+--->['543', '564']
+Funkcja split() jest używana do dzielenia stringów na podstawie określonego separatora i zwraca listę wynikowych podelementów
+
+elif działa tak że patrzy czy poprzedni warunek(tylko 1 nie wszystkie poprzednie) został spełniony

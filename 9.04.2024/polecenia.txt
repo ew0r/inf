@@ -1,0 +1,9 @@
+UŻ podaje liczbę N. Wypisz te elementy ciągu Fibonacci,  które mają N-znaków długości
+
+UŻ podaje liczbę N. Wypisz te elementy ciągu Fibonacci, KTÓRE SĄ < 100_000 ORAZ  zawierają cyfry zawarte w N
+
+UŻ podaje liczbę N. Policz jaka cyfra/cyfry występują największą liczbę razy po N-elementach c.F.
+
+lista liczb ile najwięcej cyferek
+
+

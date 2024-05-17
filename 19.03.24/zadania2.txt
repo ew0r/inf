@@ -1,0 +1,9 @@
+Pobierz plik 'n_z.txt'
+
+1. Wypisz sumę cyf
+r z pliku
+2. Wskaż numery linii (jednej lub więcej) o maksymalnej sumie cyfr w linii
+3. Wypisz pary liczb, których suma jest liczbą pierwszą (jeśli występuje)
+4. Dla każdej pary wyznacz największy wspólny dzielnik NWD
+5. Dla każdej pary wyznacz wspólne czynniki przy rozkładzie każdej liczby 
+na czynniki pierwsze

@@ -1,0 +1,3 @@
+pary[-1]=linia+'\n'       #stringi można normalnie dodawać ha
+
+relpary=pary.copy()       #wpisujesz copy jest copy
