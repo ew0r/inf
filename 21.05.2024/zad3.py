@@ -6,7 +6,7 @@ for linia in plik:
     lista.append(pusta)
 
 count=0
-for x in range(1,5):
+for x in range(0,5):
     count=0
     for elem in lista:
         count+=int(elem[x])
