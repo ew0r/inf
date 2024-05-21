@@ -1,0 +1,8 @@
+=============================================================================
+Dla liczb z pliku p43.txt:
+
+1. Wypisz sumę z całego pliku
+2. Wypisz sumę z każdej linii 
+3. Wypisz sumę z każdej kolumny
+4. Wskaż numer linii o największej sumie
+5. Wskaż numer kolumny o największej sumie
